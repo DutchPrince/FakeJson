@@ -1,0 +1,127 @@
+        body: [
+          {
+            _uid: 'X1JAfdsZxy',
+            component: 'container',
+            properties: { fullWidth: false },
+            children: [
+              {
+                _uid: 'gJZoSLkfZV',
+                component: 'row',
+                width: 1,
+                children: [
+                  {
+                    _uid: 'BUY6Drn9e1',
+                    component: 'column',
+                    children: [
+                      {
+                        _uid: 'BUY6Drn9e12',
+                        component: 'paragraph',
+                        content: 'Lorem Ipsum',
+                        properties: {
+                          color: '#000',
+                          fontSize: '12',
+                        },
+                      },
+                      {
+                        _uid: 'BUY6Drn9e13',
+                        component: 'paragraph',
+                        content: 'Lorem Ipsum',
+                        properties: {
+                          color: '#000123',
+                          fontSize: '15',
+                        },
+                      },
+                    ],
+                  },
+                  {
+                    _uid: 'BUY6Drn9e15',
+                    component: 'column',
+                    children: [
+                      {
+                        _uid: 'BUY6Drn9e1322',
+                        component: 'header-title',
+                        type: 'h1',
+                        content: 'Lorem Ipsum',
+                        properties: {
+                          color: '#000',
+                          fontSize: '12',
+                        },
+                      },
+                      {
+                        _uid: 'BUY6Drn9e142',
+                        component: 'paragraph',
+                        content: 'Lorem Ipsum',
+                        properties: {
+                          color: '#000123',
+                          fontSize: '15',
+                        },
+                      },
+                    ],
+                  },
+                ],
+              },
+              {
+                _uid: 'gJZoSLkfZVsd',
+                component: 'row',
+                width: 1,
+                children: [
+                  {
+                    _uid: 'BUY6Drn9ewqd1',
+                    component: 'column',
+                    children: [
+                      {
+                        _uid: 'BUY6Drnw9e12',
+                        component: 'paragraph',
+                        content: 'Lorem Ipsum',
+                        properties: {
+                          color: '#000',
+                          fontSize: '12',
+                        },
+                      },
+                      {
+                        _uid: 'BUY6Drnsad9e13',
+                        component: 'paragraph',
+                        content: 'Lorem Ipsum',
+                        properties: {
+                          color: '#000123',
+                          fontSize: '15',
+                        },
+                      },
+                    ],
+                  },
+                  {
+                    _uid: 'BUY6Drn9e15',
+                    component: 'column',
+                    children: [
+                      {
+                        _uid: 'BUY6Drfdsn9e1322',
+                        component: 'header-title',
+                        type: 'h1',
+                        content: 'Lorem Ipsum',
+                        properties: {
+                          color: '#000',
+                          fontSize: '12',
+                        },
+                      },
+                      {
+                        _uid: 'BUY6Drn9eas142',
+                        component: 'paragraph',
+                        content: 'Lorem Ipsum',
+                        properties: {
+                          color: '#000123',
+                          fontSize: '15',
+                        },
+                      },
+                    ],
+                  },
+                ],
+              },
+              {
+                _uid: 'gJZoSLkfZasVsd',
+                component: 'row',
+                width: 1,
+                children: [],
+              },
+            ],
+          },
+        ],
